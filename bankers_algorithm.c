@@ -57,7 +57,7 @@ int main()
         printf("\n");
 
     }
-
+//this is required to check state
 bool isSafeState(int safesequence[])
 {
     int work[NO_OF_PROCESSES],finish[NO_OF_PROCESSES];
